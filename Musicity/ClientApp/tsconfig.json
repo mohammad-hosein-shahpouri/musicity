@@ -1,0 +1,31 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./src",
+        "forceConsistentCasingInFileNames": true,
+        "isolatedModules": true,
+        "jsx": "preserve",
+        "lib": [
+          "ES2015",
+          "DOM"
+        ],
+        "module": "esnext",
+        "moduleResolution": "Node",
+        "noEmit": true,
+        "noEmitOnError": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitAny": true,
+        "resolveJsonModule": true,
+        "sourceMap": true,
+        "strict": true,
+        "target": "ES5",
+        "skipLibCheck": true
+      },
+      "include": [
+        "src"
+      ]
+    
+}

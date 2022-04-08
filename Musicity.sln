@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Musicity", "Musicity\Musicity.csproj", "{69FE6CB0-8312-4A81-846A-55900F83DB18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A78F5207-7516-416F-BF91-D8238E9E3125}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{E78A5E13-F865-47F4-835A-6052185911D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69FE6CB0-8312-4A81-846A-55900F83DB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FE6CB0-8312-4A81-846A-55900F83DB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FE6CB0-8312-4A81-846A-55900F83DB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FE6CB0-8312-4A81-846A-55900F83DB18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69FE6CB0-8312-4A81-846A-55900F83DB18} = {E78A5E13-F865-47F4-835A-6052185911D0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA59068-464C-47E4-A04F-4D8AF0C9E308}
+	EndGlobalSection
+EndGlobal
